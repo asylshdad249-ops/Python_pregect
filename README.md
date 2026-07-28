@@ -1,6 +1,11 @@
 <div align="center">
 <div align="center">
-  <img src="<a href='https://postimg.cc/dDHXLgFg' target='_blank'><img src='https://i.postimg.cc/X740D0zN/20260728-153851-copy-540x960-1.png' border='0' alt='20260728-153851-copy-540x960-1'></a> " width="150" style="border-radius:50%;">
+<div align="center">
+  <img src="https://i.postimg.cc/X740D0zN/20260728-153851-copy-540x960-1.png" width="150">
+</div>
+
+  
+  <img src="https://postimg.cc/dDHXLgFg' target='_blank'><img src='https://i.postimg.cc/X740D0zN/20260728-153851-copy-540x960-1.png' border='0' alt='20260728-153851-copy-540x960-1'></a> " width="150" style="border-radius:50%;">
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,40:003566,70:00B4D8,100:00E5FF&text=ASEEL%20SHADDAD&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
