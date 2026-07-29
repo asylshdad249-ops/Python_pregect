@@ -31,7 +31,7 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Aseel Shaddad**, a Computer Science student passionate about programming, software development, and technology.
+Hello! I'm **Aseel Rukban**, a Computer Science student passionate about programming, software development, and technology.
 
 I enjoy learning new technologies, solving programming problems, and building projects that improve my skills.
 
@@ -42,7 +42,7 @@ My interests include:
 - 🌐 Web Development
 - 🤖 Artificial Intelligence
 - 🧠 Algorithms and Data Structures
-- 🔐 Cyber Security Fundamentals
+- 🔐 Information technology IT 
 
 ---
 
