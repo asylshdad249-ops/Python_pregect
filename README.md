@@ -2,9 +2,9 @@
 <div align="center">
 <div align="center">
   <div align="center" dir="rtl">
-  <h1 style="color: #28B463;">اصنع حياتك بنفسك لا بتقليد الآخرين</h1>
+  <h1 style="color: #007ACC;">اصنع حياتك بنفسك لا بتقليد الآخرين</h1>
 </div>
-
+ 
 
   
 
