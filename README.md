@@ -2,8 +2,10 @@
 <div align="center">
 <div align="center">
   <div align="center" dir="rtl">
-  <h1 style="color: #8E44AD;">اصنع حياتك بنفسك لا بتقليد الآخرين</h1>
+  <h1 style="color: #28B463;">اصنع حياتك بنفسك لا بتقليد الآخرين</h1>
 </div>
+
+  
   > ### 💡 اصنع حياتك بنفسك.. لا بتقليد الآخرين
 
 <img src='https://i.postimg.cc/63mtcrHY/20260402-182215.jpg' border='0' alt='20260402-182215'></a>
