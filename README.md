@@ -12,7 +12,7 @@
 
 <img src="https://github.com/aseelshaddad.png" width="180" style="border-radius:50%;" />
 
-# Aseel Shaddad
+# Aseel  Rukban
 
 ### Computer Science Student • Python Developer • C++ Programmer
 
