@@ -3,11 +3,6 @@
 <div align="center">
 <img src='https://i.postimg.cc/63mtcrHY/20260402-182215.jpg' border='0' alt='20260402-182215'></a>
 
-
-  
-  <img src="https://i.postimg.cc/X740D0zN/20260728-153851-copy-540x960-1.png" width="150">
-</div>
-
   
   <img src="https://postimg.cc/dDHXLgFg' target='_blank'><img src='https://i.postimg.cc/X740D0zN/20260728-153851-copy-540x960-1.png' border='0' alt='20260728-153851-copy-540x960-1'></a> " width="150" style="border-radius:50%;">
 </div>
