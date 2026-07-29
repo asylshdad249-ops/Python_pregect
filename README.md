@@ -1,9 +1,7 @@
 <div align="center">
 <div align="center">
 <div align="center">
-  <div align="center" dir="rtl">
-  <h1 style="color: #007ACC;">اصنع حياتك بنفسك لا بتقليد الآخرين</h1>
-</div>
+
  <div align="center" dir="rtl">
   <h1 style="background-color: #2D3748; color: #ECC94B; padding: 20px; border-radius: 12px; display: inline-block;">
     ✨ اصنع حياتك بنفسك لا بتقليد الآخرين ✨
