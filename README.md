@@ -1,6 +1,8 @@
 <div align="center">
 <div align="center">
 <div align="center">
+  > ### 💡 اصنع حياتك بنفسك.. لا بتقليد الآخرين
+
 <img src='https://i.postimg.cc/63mtcrHY/20260402-182215.jpg' border='0' alt='20260402-182215'></a>
 
   
